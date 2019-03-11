@@ -14,7 +14,7 @@ const App = () => (
     <div className="App">
       <header className="App-header">
         <Link to="/">
-          <img src={logo} className="App-logo" alt="logo" />
+          <span className="App-title">&#60;The Movie DB MERN Sandpit&#62;</span>
         </Link>
       </header>
       <Switch>
